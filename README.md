@@ -1,12 +1,12 @@
-Ecommerce Contact Page
+#Ecommerce Contact Page
 
 A clean and simple static webpage designed to serve as the contact portal for a company. Users can easily reach out, send messages, and find essential company information. This project is built using HTML only.
 
-Live Demo
+##Live Demo
 
 https://html-task-page.netlify.app/
 
-About the Project
+##About the Project
 
 This Contact Page enables visitors to:
 
@@ -15,23 +15,23 @@ This Contact Page enables visitors to:
 * Choose their preferred contact method (email or phone)
 * Check company address and office hours
 
-Key Features
+##Key Features
 
 * Interactive form section with input fields, dropdowns, checkboxes, and radio buttons
 * Organized office hours table for clear information
 * Company address and contact details displayed prominently
 * Simple and responsive layout using only HTML
 
-Technologies Used
+##Technologies Used
 
-* HTML – For page structure and form elements
+* **HTML** – For page structure and form elements
 
-Contact
+##Contact
 
 For questions or inquiries, reach out via email:
 fatimairum098@gmail.com
 
-Acknowledgments
+##Acknowledgments
 
 Thank you for checking out this project! This contact page can serve as a starting point for small businesses or personal portfolios needing a simple communication interface.
 
