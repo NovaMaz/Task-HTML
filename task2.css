@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Profile</title>
-<style>
 *{
 margin:0;
 padding:0;
@@ -63,35 +58,3 @@ box-sizing: border-box;
 text-align: center;
 border: 2px solid transparent;
 }
-</style>
-</head>
-<body>
-<div class="profile">
-<img src="https://i.pinimg.com/736x/81/93/b4/8193b490c14ddb47c51e870cf9a78758.jpg" alt="Profile Picture" class="profile-pic">
-<h2 class="name">Irum Fatima</h2>
-<p class="location">Islamabad,Pakistan</p>
-<p class="title">"Front-end developer and avid reader."</p>
-<div class="social-links">
-<button>GitHub</button>
-
-<a href="https://www.w3schools.com/html/html_links.asp">
-<button>Medium</button>
-</a>
-
-<button>LinkedIn</button>
-<button>Twitter</button>
-<button>Instagram</button>
-</div>
-</div>
-</body>
-</html>
-
-
-
-
-
-
-
-
-
-
